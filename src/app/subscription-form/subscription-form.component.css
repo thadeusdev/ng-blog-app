@@ -1,0 +1,18 @@
+.card{
+    background: var(--secondary-color);
+    width: 1200px;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+input[type=text], input[type=email] {
+    width: 100%;
+}
+
+.subs-text{
+    width: 500px;
+}
